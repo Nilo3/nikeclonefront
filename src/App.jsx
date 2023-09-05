@@ -6,7 +6,7 @@ import Services from './sections/Services';
 import SpecialOffer from './sections/SpecialOffer';
 import SuperQuality from './sections/SuperQuality';
 import Suscribe from './sections/Suscribe';
-import Nav from './components/nav';
+import Nav from './components/Nav';
 
 const App = () => {
 	return (
